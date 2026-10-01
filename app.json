@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "entire-beige-crocodile",
+    "slug": "entire-beige-crocodile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.entirebeigecrocodile" },
+    "scheme": "entirebeigecrocodile"
+  }
+}
